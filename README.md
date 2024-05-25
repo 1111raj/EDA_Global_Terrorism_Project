@@ -1,1 +1,2 @@
-# EDA_Global_Terrorism_Project
+# EDA_Global_Terrorism_Projectsdsdf
+this is the project on Global Terrorism Data
